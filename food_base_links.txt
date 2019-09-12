@@ -1,0 +1,8 @@
+
+https://s3.amazonaws.com/openrecipes/20170107-061401-recipeitems.json.gz
+https://raw.githubusercontent.com/NYTimes/ingredient-phrase-tagger/master/nyt-ingredients-snapshot-2015.csv
+https://data.humdata.org/dataset/4fdcd4dc-5c2f-43af-a1e4-93c9b6539a27/resource/12d7c8e3-eff9-4db0-93b7-726825c4fe9a/download/wfpvam_foodprices.csv
+https://wetransfer.com/downloads/bbc52f6b902217898f66a8fc6491810120190527140201/9e8148
+https://food.opendata.ch/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640668/
+
